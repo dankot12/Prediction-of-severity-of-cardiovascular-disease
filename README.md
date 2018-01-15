@@ -18,18 +18,18 @@ angiographic CAD according to groups by metabolic obesity (Insulin resistance sy
 
 
 Objectives:
- To study the severity of Coronary Artery Disease, according to groups by metabolically obese and/or
+1.To study the severity of Coronary Artery Disease, according to groups by metabolically obese and/or
 weight status.
- To compare the association of insulin resistance , Lip(a) &amp; hsCRP with severity of angiographic CAD
+2.To compare the association of insulin resistance , Lip(a) &amp; hsCRP with severity of angiographic CAD
 among four groups
 
 
 Theme Relevance:
- Relative importance of Obesity and metabolic obesity in relation to severity of coronary artery disease
+1.Relative importance of Obesity and metabolic obesity in relation to severity of coronary artery disease
 among four groups.
- Helpful to find how the insulin resistance syndrome is associated with the severity of coronary artery
+2.Helpful to find how the insulin resistance syndrome is associated with the severity of coronary artery
 disease.
- Association of hsCRP, Neutrophil /Lymphocyte ratio and Lip(a) in severity of coronary artery disease
+3.Association of hsCRP, Neutrophil /Lymphocyte ratio and Lip(a) in severity of coronary artery disease
 among the four groups.
 
 
